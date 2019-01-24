@@ -2,7 +2,7 @@
 title: DPoS
 ---
 
-# DPOS
+# How DPoS works
 
 ## Understand Features and Attack Vectors of DPoS
 

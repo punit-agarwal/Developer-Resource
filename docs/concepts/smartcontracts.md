@@ -2,7 +2,7 @@
 title: Smart Contracts
 ---
 
-# SmartContracts
+# SmartContract
 
 ## **Introduction**
 

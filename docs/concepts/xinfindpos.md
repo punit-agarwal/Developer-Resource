@@ -2,7 +2,7 @@
 title: Understanding XinFin DPoS
 ---
 
-# XinFinDPoS
+# XinFin DPoS Consensus
 
 ### Technicalities and Specifications of XinFin Delegated Proof of Stake
 
