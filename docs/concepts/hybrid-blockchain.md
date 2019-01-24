@@ -1,4 +1,4 @@
-# XinFin Hybrid Blockchain: Introduction and Benefits
+# Hybrid Blockchain
 
 The hybrid blockchain is best defined as the blockchain that attempts to use the best part of both private and public blockchain solutions. In an ideal world, a hybrid blockchain will mean controlled access and freedom at the same time.
 
